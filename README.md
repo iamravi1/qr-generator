@@ -7,6 +7,8 @@
 
 <div align="center">
 <img src="./demo1.png" width="400">
+  <br>
+<img src="./demo2.png" width="400">
 </div>
 
 ## Features
