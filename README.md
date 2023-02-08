@@ -1,6 +1,6 @@
 # QR-code generator
 
-### Link :link: https://coruscating-belekoy-e621d9.netlify.app/
+### Link :link: https://deft-alfajores-76d366.netlify.app/
 
 
 ---
